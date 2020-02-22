@@ -1,4 +1,5 @@
 # -XIAOMI
+适合小米R3G和斐讯N1
 1. 将pkg.tar文件下载至路由器
 2. 执行 "tar -xvf pkg.tar -C /"。
 3. 执行 "/etc/rc.common /etc/init.d/oray_phddns enable"。
